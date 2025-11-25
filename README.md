@@ -44,7 +44,7 @@ Built an interactive Excel Dashboard featuring:
 ---
 
 ### 📸 Dashboard Screenshots
-![Dashboard Preview]
+![Dashboard Preview](dashboard.png)
 
 
 ---
