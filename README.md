@@ -56,7 +56,7 @@ Built an interactive Excel Dashboard featuring:
 ---
 
 ### 📥 How to Use This File
-1.  **Download** the file `Adidas_Sales_Project.xlsx` from this repository.
+1.  **Download** the file `[Adidas_Sales_Project.xlsx]`(addidas sales analysis) from this repository.
 2.  Open the file in **Microsoft Excel**.
 3.  Navigate to the **"Dashboard"** tab.
 4.  Use the **Slicers** on the left to filter the data by Region or Date.
