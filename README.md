@@ -9,7 +9,7 @@ As an **Electrical Engineering student transitioning into Data Analytics**, I ap
 
 ### 📂 The Dataset
 * **Source:** Adidas US Sales Dataset (Kaggle/Public Domain)
-* **Volume:** ~10,000 Records
+* **Volume:** ~9000 Records
 * **Key Metrics:** Total Sales ($182M), Operating Profit ($63M), Units Sold (462k)
 * **Dimensions:** Region, Retailer, Product Category, Sales Method (Online vs In-store)
 
@@ -56,7 +56,7 @@ Built an interactive Excel Dashboard featuring:
 ---
 
 ### 📥 How to Use This File
-1.  **Download** the file `[addidas sales analysis.xlsx]`(addidas sales analysis.xlsx) from this repository.
+1.  **Download** the file[Adidas_Sales_Analysis.xlsx](Adidas_Sales_Analysis.xlsx) from this repository.
 2.  Open the file in **Microsoft Excel**.
 3.  Navigate to the **"Dashboard"** tab.
 4.  Use the **Slicers** on the left to filter the data by Region or Date.
