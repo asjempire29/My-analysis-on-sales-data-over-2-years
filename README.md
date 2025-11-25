@@ -65,4 +65,5 @@ Built an interactive Excel Dashboard featuring:
 
 ### 📬 Contact
 AKinyemi samuel J Electrical Engineering Student | Aspiring Data Analyst  
-[Link to your LinkedIn Profile]
+www.linkedin.com/in/samuel-akinyemi-59995b32b
+
